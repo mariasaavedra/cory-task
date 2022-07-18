@@ -27,6 +27,7 @@ None
 # Think about 💡
 - How we would use Dark mode on other potential routes/components in a bigger application. Would your solution work for this?
 - How we can apply a class to the `html` DOM element
+- How can we pass down data in a React application without passing props? 
 
 
 &nbsp;
