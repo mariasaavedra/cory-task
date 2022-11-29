@@ -1,6 +1,3 @@
-# Dark Mode Coding Challenge 🌙 &nbsp; ![medium](https://img.shields.io/badge/-Medium-yellow) ![time](https://img.shields.io/badge/%E2%8F%B0-30m-blue) 
-
-
 # Getting Started
 - Must have NPM or Yarn installed to run.
 - Run `yarn` to install dependencies
